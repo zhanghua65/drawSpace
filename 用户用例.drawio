@@ -1,9 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2024-03-30T12:45:03.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="24.2.0" etag="9Pd2ZZ-J3RYYN4QbbRtT" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-30T12:58:13.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="uLV1nvxGckMM7nWS0r1y" version="24.2.0" type="github">
   <diagram name="第 1 页" id="JXuiiCAwv4rwSz_7Wjib">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ahia5WPpnmb1Q_cY_QIW-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahia5WPpnmb1Q_cY_QIW-1" target="ahia5WPpnmb1Q_cY_QIW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahia5WPpnmb1Q_cY_QIW-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ahia5WPpnmb1Q_cY_QIW-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="300" as="targetPoint" />
+            <mxPoint x="110" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahia5WPpnmb1Q_cY_QIW-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;html=1;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahia5WPpnmb1Q_cY_QIW-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahia5WPpnmb1Q_cY_QIW-5" value="注册" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahia5WPpnmb1Q_cY_QIW-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahia5WPpnmb1Q_cY_QIW-7" value="登录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahia5WPpnmb1Q_cY_QIW-8" value="智能分析" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahia5WPpnmb1Q_cY_QIW-10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahia5WPpnmb1Q_cY_QIW-11" value="我的图表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahia5WPpnmb1Q_cY_QIW-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahia5WPpnmb1Q_cY_QIW-1" target="ahia5WPpnmb1Q_cY_QIW-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="340" as="targetPoint" />
+            <mxPoint x="120" y="309" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahia5WPpnmb1Q_cY_QIW-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahia5WPpnmb1Q_cY_QIW-1" target="ahia5WPpnmb1Q_cY_QIW-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="targetPoint" />
+            <mxPoint x="130" y="319" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahia5WPpnmb1Q_cY_QIW-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ahia5WPpnmb1Q_cY_QIW-17" source="ahia5WPpnmb1Q_cY_QIW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="624" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahia5WPpnmb1Q_cY_QIW-17" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="480" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahia5WPpnmb1Q_cY_QIW-18" value="个人中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
