@@ -192,7 +192,7 @@
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-80" value="会见显示平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="820" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S2FNDMp0x8_p2Qf94cD2-86" value="看守所" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-86" value="看守所核验信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="820" y="-50" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-88" target="S2FNDMp0x8_p2Qf94cD2-90">
@@ -282,6 +282,9 @@
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-135" value="会见结束" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1241" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-137" value="看守所律师会见" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1251" y="-50" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
