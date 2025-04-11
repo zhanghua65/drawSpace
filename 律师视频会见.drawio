@@ -1,40 +1,40 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1925" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2612" dy="2108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-87" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="760" y="-110" width="230" height="1220" as="geometry" />
+          <mxGeometry x="770" y="-110" width="750" height="780" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-57" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1010" y="-110" width="670" height="1220" as="geometry" />
+          <mxGeometry x="1760" y="-130" width="670" height="1220" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-55" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="515" y="-110" width="230" height="1220" as="geometry" />
+          <mxGeometry x="515" y="-110" width="225" height="1220" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-41" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-80" y="-110" width="560" height="1220" as="geometry" />
+          <mxGeometry x="-350" y="-110" width="830" height="1220" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-0" target="S2FNDMp0x8_p2Qf94cD2-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-0" value="办事服务预约助手小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-2" target="S2FNDMp0x8_p2Qf94cD2-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-2" value="微信小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="370" as="targetPoint" />
+            <mxPoint x="-160" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-6" value="律师信息完善" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-14" target="S2FNDMp0x8_p2Qf94cD2-16">
           <mxGeometry relative="1" as="geometry" />
@@ -47,8 +47,8 @@
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-14" target="S2FNDMp0x8_p2Qf94cD2-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="420" />
-              <mxPoint x="330" y="290" />
+              <mxPoint x="50" y="420" />
+              <mxPoint x="50" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -58,25 +58,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-14" value="司法局核验&lt;div&gt;律师信息&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="370" width="100" height="100" as="geometry" />
+          <mxGeometry x="-210" y="370" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-16" target="S2FNDMp0x8_p2Qf94cD2-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-16" value="预约视频会见" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-25" target="S2FNDMp0x8_p2Qf94cD2-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-25" value="数据推送至公安内网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-26" target="S2FNDMp0x8_p2Qf94cD2-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="120" y="930" />
-              <mxPoint x="120" y="930" />
+              <mxPoint x="-160" y="930" />
+              <mxPoint x="-160" y="930" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -87,10 +87,10 @@
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-26" target="S2FNDMp0x8_p2Qf94cD2-36">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="840" as="targetPoint" />
+            <mxPoint x="200" y="840" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="260" y="900" />
-              <mxPoint x="260" y="900" />
+              <mxPoint x="-20" y="900" />
+              <mxPoint x="-20" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -100,18 +100,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-26" value="看守所登录&lt;div&gt;会见显示系统&lt;/div&gt;&lt;div&gt;核验信息&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="850" width="100" height="100" as="geometry" />
+          <mxGeometry x="-210" y="850" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-29" value="发送短信通知律师&lt;div&gt;预约视频会见情况&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.442;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-36" target="S2FNDMp0x8_p2Qf94cD2-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="810" as="sourcePoint" />
-            <mxPoint x="270" y="575" as="targetPoint" />
+            <mxPoint x="190" y="810" as="sourcePoint" />
+            <mxPoint x="-10" y="575" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="872" />
-              <mxPoint x="370" y="590" />
+              <mxPoint x="90" y="872" />
+              <mxPoint x="90" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -121,10 +121,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-36" value="公司客服告知律师不通过情况及其原因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-42" value="律师预约流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="65" y="-50" width="110" height="30" as="geometry" />
+          <mxGeometry x="-215" y="-50" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-43" target="S2FNDMp0x8_p2Qf94cD2-44">
           <mxGeometry relative="1" as="geometry" />
@@ -157,46 +157,110 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-49" value="会见管理平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1295" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="2045" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-50" target="S2FNDMp0x8_p2Qf94cD2-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-50" value="根据监管支队要求，进行预约时间段配置" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1065" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="1815" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-52" value="对看守所进行放号" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1065" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="1815" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-58" value="公司" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1295" y="-40" width="110" height="30" as="geometry" />
+          <mxGeometry x="2045" y="-30" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-62" value="会见点设备情况配置" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1220" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="1970" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-65" target="S2FNDMp0x8_p2Qf94cD2-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-65" value="预约信息核验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-69" value="会见点设备维护" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1365" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="2115" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-75" value="用户反馈处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1505" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="2260" y="170" width="115" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S2FNDMp0x8_p2Qf94cD2-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-80" target="S2FNDMp0x8_p2Qf94cD2-81">
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-80" target="S2FNDMp0x8_p2Qf94cD2-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-80" value="会见显示平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="820" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S2FNDMp0x8_p2Qf94cD2-81" value="律师信息审核" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="820" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="S2FNDMp0x8_p2Qf94cD2-86" value="看守所" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="820" y="-50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-88" target="S2FNDMp0x8_p2Qf94cD2-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-88" value="会见信息通过" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-89" value="律师会见流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="-50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-90" target="S2FNDMp0x8_p2Qf94cD2-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-90" value="到达预约会见点" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-92" target="S2FNDMp0x8_p2Qf94cD2-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-92" value="点击开始会见" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-98" value="会见结束" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-102" target="S2FNDMp0x8_p2Qf94cD2-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-102" value="等待看守所押解在押人员到达会见室" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-105" target="S2FNDMp0x8_p2Qf94cD2-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-105" value="律师人脸核验" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-108" target="S2FNDMp0x8_p2Qf94cD2-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-108" value="民警核验会见资料" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-111" target="S2FNDMp0x8_p2Qf94cD2-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-126" value="不通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S2FNDMp0x8_p2Qf94cD2-125">
+          <mxGeometry x="-0.4304" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S2FNDMp0x8_p2Qf94cD2-111" target="S2FNDMp0x8_p2Qf94cD2-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-129" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S2FNDMp0x8_p2Qf94cD2-128">
+          <mxGeometry x="-0.1947" y="2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-111" value="律师信息及&lt;div&gt;会见资料核验&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="810" y="145" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-117" value="撰写原因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1020" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2FNDMp0x8_p2Qf94cD2-127" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
